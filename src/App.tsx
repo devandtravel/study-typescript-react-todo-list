@@ -1,5 +1,14 @@
+import { Navbar } from './components/Navbar'
+import { TodoForm } from './components/TodoForm'
 const App: React.FC = () => {
-    return <h1>Hi</h1>
+    return (
+        <>
+            <Navbar />
+            <div className='container'>
+                <TodoForm />
+            </div>
+        </>
+    )
 }
 
 export default App

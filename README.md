@@ -1,4 +1,4 @@
-# Typescript, React, React Router DOM learning (on todo list example)
+# Typescript, React, React Router DOM learning (on the example of a Todo List)
 
 reference: [React JS + TypeScript. Introduction to Typing (+ React Router DOM)](https://www.youtube.com/watch?v=OvLWWvjoi8s) by [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 
