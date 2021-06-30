@@ -1,3 +1,16 @@
+# Typescript, React, React Router DOM learning (on todo list example)
+
+reference: [React JS + TypeScript. Introduction to Typing (+ React Router DOM)](https://www.youtube.com/watch?v=OvLWWvjoi8s) by [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+
+Enviroment requiremens
+
+-   Typescript
+-   Node JS
+-   Create React App
+
+To install node modules before getting started run
+`npm i`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
